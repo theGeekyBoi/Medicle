@@ -1,11 +1,11 @@
 Medicle, a play on words, is a culmination of the words Medical and Cubicle because that is precisely what it is, a Medical Cubicle. Every and any diagnosis requires a few vitals to be tested. These essential metrics are -
-Height
-Weight
-Body Mass Index
-Temperature
-Blood Pressure
-Oxygen Saturation
-Heart Rate
+Height,
+Weight,
+Body Mass Index,
+Temperature,
+Blood Pressure,
+Oxygen Saturation / SPO2,
+Heart Rate,
 
 Medicle constitutes a cubicle with an array of sensors that will conduct all these indispensable tests automatically. The crucial data collected will then be transferred over the web to a firebase hosted server, wherein the doctor can access the information from anywhere with an internet connection.
 
